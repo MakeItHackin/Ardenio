@@ -1,7 +1,9 @@
 # Ardenio
 Custom Arduino Boards based off the Adafruit Metro 328
+I make these for very special people.  If you got one... you're special!
 
-PCB Designed by Limor Fried and KTOWN
+
+Original PCB was Designed by Limor Fried and KTOWN
 https://github.com/adafruit/Adafruit-METRO-328-PCB
 
 For Information about the Metro 328, visit:
